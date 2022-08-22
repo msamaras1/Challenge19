@@ -14,9 +14,11 @@
 *dotenv 
 
 <p>
+
 **Ganache UI/UX showing accounts and Blockchain Transactions**
 <img src="https://github.com/msamaras1/Challenge19/blob/main/Images/Ganache.jpg"  >
-git 
+ 
 <p>
-**Image of the Streamlit User Interface
+
+**Image of the Streamlit User Interface**
 <img src="https://github.com/msamaras1/Challenge19/blob/main/Images/landing.jpg"   >
