@@ -15,8 +15,8 @@
 
 <p>
 **Ganache UI/UX showing accounts and Blockchain Transactions**
-<img src="https://github.com/msamaras1/Challenge19/blob/main/Images/Ganache.jpg" style=" width:60px ; height:60px "  >
-
+<img src="https://github.com/msamaras1/Challenge19/blob/main/Images/Ganache.jpg"  >
+git 
 <p>
 **Image of the Streamlit User Interface
-<img src="https://github.com/msamaras1/Challenge19/blob/main/Images/landing.jpg" style=" width:60px ; height:60px "  >
+<img src="https://github.com/msamaras1/Challenge19/blob/main/Images/landing.jpg"   >
